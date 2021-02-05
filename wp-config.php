@@ -31,6 +31,7 @@ define( 'DB_PASSWORD', 'dbsolutions' );
 /** MySQL hostname */
 define( 'DB_HOST', 'database-1.cmldfgqpl9ax.ap-south-1.rds.amazonaws.com' );
 
+define( 'DB_PORT', '3306' );
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
 
