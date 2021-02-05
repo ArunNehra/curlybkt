@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'admin_dbsolutions' );
 
 /** MySQL database username */
-define( 'DB_USER', 'admin_admin' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'dbsolutions' );
