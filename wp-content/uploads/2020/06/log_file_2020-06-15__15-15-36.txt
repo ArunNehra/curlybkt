@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080/dbsolutions
+Data file = F:\xampp\htdocs\dbsolutions/wp-content/themes/multiple-business/ocdi/multiple-business.xml
+Widget file = F:\xampp\htdocs\dbsolutions/wp-content/themes/multiple-business/ocdi/multiple-business.wie
+Customizer file = F:\xampp\htdocs\dbsolutions/wp-content/themes/multiple-business/ocdi/multiple-business.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Text - ABOUT - Imported
+Image - IMAGE WITH LINK - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+Gallery - GALLERY - Imported
+
+Footer1 : 
+
+Text - ABOUT - Imported
+
+Footer2 : 
+
+Custom HTML - OPENING HOURS - Imported
+
+Footer3 : 
+
+Categories - CATEGORIES - Imported
+
+Footer4 : 
+
+Gallery - GALLERY - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
