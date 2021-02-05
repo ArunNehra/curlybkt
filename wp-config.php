@@ -29,7 +29,7 @@ define( 'DB_USER', 'admin_admin' );
 define( 'DB_PASSWORD', 'dbsolutions' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'database-1.cmldfgqpl9ax.ap-south-1.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
