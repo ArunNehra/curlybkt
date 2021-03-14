@@ -59,6 +59,10 @@ function multiple_business_default_options( $options ){
 		'team_section_title'             => esc_html__( 'Meet Our Team', 'multiple-business' ),
 		'disable_team'                   => false,
 
+		# Client
+		'client_section_title'             => esc_html__( 'Our Clients', 'multiple-business' ),
+		'disable_client'                   => false,
+
 		# Highlight
 		'highlight_section_title'        => esc_html__( 'Highlighted Posts', 'multiple-business' ),
 		'highlight_autoplay'    	     => true,
