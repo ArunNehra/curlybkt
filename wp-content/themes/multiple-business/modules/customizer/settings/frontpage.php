@@ -143,6 +143,25 @@ function multiple_business_frontpage_settings( $settings ){
 			'type'    => 'checkbox',
 		),
 
+		# Settings for Client section
+		'client_section_title' => array(
+			'label'   => esc_html__( 'Enter Title for Client section', 'multiple-business' ),
+			'section' => 'home_client',
+			'type'    => 'text',
+		),
+		
+		'clients_page' => array(
+			'label'   => esc_html__( 'Client Pages', 'multiple-business' ),
+			'section' => 'home_client',
+			'type'    => 'text',
+			'description' => esc_html__( 'Input page id. Separate with comma. for eg. 2,9,23', 'multiple-business' )
+		),
+		'disable_client' => array(
+			'label'   => esc_html__( 'Disable Client Section', 'multiple-business' ),
+			'section' => 'home_client',
+			'type'    => 'checkbox',
+		),
+
 		# Settings for callback section
 		'callback_page' => array(
 			'label'   => esc_html__( 'Select Callback Page', 'multiple-business' ),
