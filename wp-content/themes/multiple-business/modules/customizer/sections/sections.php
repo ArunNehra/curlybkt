@@ -35,6 +35,10 @@ function Multiplebusiness_Customizer_sections( $sections ){
 			'title' => esc_html__( 'Team', 'multiple-business' ),
 			'panel' => 'frontpage_options'
 		),
+		'home_client' => array(
+			'title' => esc_html__( 'Client', 'multiple-business' ),
+			'panel' => 'frontpage_options'
+		),
 		'home_callback' => array(
 			'title' => esc_html__( 'Callback', 'multiple-business' ),
 			'panel' => 'frontpage_options'
