@@ -474,6 +474,7 @@ function multiple_business_get_homepage_sections(){
 		'portfolio',
 		'testimonials',
 		'team',
+		'clients',
 		'callback',
 		'highlight',
 		'contact',
