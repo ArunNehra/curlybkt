@@ -131,6 +131,7 @@ function multiple_business_frontpage_settings( $settings ){
 			'section' => 'home_team',
 			'type'    => 'text',
 		),
+		
 		'team_page' => array(
 			'label'   => esc_html__( 'Team Pages', 'multiple-business' ),
 			'section' => 'home_team',
@@ -142,23 +143,22 @@ function multiple_business_frontpage_settings( $settings ){
 			'section' => 'home_team',
 			'type'    => 'checkbox',
 		),
-
-		# Settings for Client section
-		'client_section_title' => array(
+		# Settings for Clients section
+		'clients_section_title' => array(
 			'label'   => esc_html__( 'Enter Title for Client section', 'multiple-business' ),
-			'section' => 'home_client',
+			'section' => 'home_clients',
 			'type'    => 'text',
 		),
 		
 		'clients_page' => array(
 			'label'   => esc_html__( 'Client Pages', 'multiple-business' ),
-			'section' => 'home_client',
+			'section' => 'home_clients',
 			'type'    => 'text',
 			'description' => esc_html__( 'Input page id. Separate with comma. for eg. 2,9,23', 'multiple-business' )
 		),
-		'disable_client' => array(
-			'label'   => esc_html__( 'Disable Client Section', 'multiple-business' ),
-			'section' => 'home_client',
+		'disable_clients' => array(
+			'label'   => esc_html__( 'Disable Team Section', 'multiple-business' ),
+			'section' => 'home_clients',
 			'type'    => 'checkbox',
 		),
 
