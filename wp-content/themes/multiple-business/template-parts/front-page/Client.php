@@ -15,7 +15,7 @@ if( !multiple_business_get_option( 'disable_client' ) ):
 		$query = new WP_Query( apply_filters( 'multiple_business_client_args',  array( 
 			'post_type'      => 'page',
 			'post__in'       => $client_ids,
-			'posts_per_page' => 8,
+			'posts_per_page' => 2,
 			'orderby'        => 'post__in'
 		)));
 
